@@ -1,5 +1,5 @@
 
-  <h1 align="center">Hi there, I'm Niranjan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> </h1>
+  <h1 align="center">Hi there, I'm Niranjan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> </h1>
 
 
 <p align="center">

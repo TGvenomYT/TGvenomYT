@@ -50,8 +50,10 @@ I'm a passionate student from India with a keen interest in Artificial Intellige
 
 ---
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+  <img
+  src="https://raw.githubusercontent.com/platane/platane/output/github-contribut
+  ion-grid-snake.svg" alt="snake animation" />
+  </p>
 
 
 

@@ -57,3 +57,6 @@ I'm a passionate student from India with a keen interest in Artificial Intellige
 
 
 
+<a href="https://github.com/TGvenomYT" target="_blank">
+  <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
+</a>

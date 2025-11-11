@@ -1,4 +1,4 @@
-# Hi there, I'm Niranjan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+# Hi there, I'm Niranjan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> 🇮🇳
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=F77E21&background=FFFFFF00&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast;Python+Developer;Automation+Specialist" alt="Typing SVG" /></a>
@@ -13,12 +13,13 @@ I'm a passionate student from India with a keen interest in Artificial Intellige
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
     <a href="https://wwwlogo.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sql" width="40" height="40"/> </a>
-    <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/12550156?s=200&v=4" alt="chromadb" width="40" height="40"/> </a>
+    <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/chroma-db-logo-473523024D-seeklogo.com.png" alt="chromadb" width="40" height="40"/> </a>
     <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> </a>
 </p>
 
-*   **Languages & Databases:** Python, SQL
+*   **Languages & Databases:** Python, SQL, MySQL
 *   **Frameworks & Libraries:** PyTorch, Transformers
 *   **Vector Databases:** ChromaDB
 *   **AI Concepts:** RAG (Retrieval-Augmented Generation)

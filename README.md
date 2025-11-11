@@ -1,9 +1,9 @@
-
 <p align="center">
   <img
-  src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=12
-  0&section=header&text=Niranjan's%20AI%20Journey&fontSize=40" />
+  src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=12
+  0&section=header&text=AI%20%26%20ML%20Enthusiast&fontSize=40" />
       </p>
+
 
 # Hi there, I'm Niranjan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="45px"> 
 

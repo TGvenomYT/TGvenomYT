@@ -55,11 +55,11 @@ I'm a passionate student from India with a keen interest in Artificial Intellige
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<br/>
+<!--<br/>
 
-![gifgithub](https://giphy.com/gifs/Smolverse-pixel-art-smol-smolverse-g2jj9VAIBluIreVNsb)
+![gifgithub]()
 
-<br/>
+<br/>-->
 
 <a href="https://github.com/TGvenomYT" target="_blank">
   <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">

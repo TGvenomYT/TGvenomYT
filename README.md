@@ -36,7 +36,7 @@ I'm a passionate student from India with a keen interest in Artificial Intellige
 *   **Project 4:** [Wikipedia Search Assistant](https://github.com/TGvenomYT/Wikipedia-Search-Assistant) - Empower Wikipedia searches.
 *   [My Website]() - 
 
-*(Feel free to add more projects here!)*
+
 
 ---
 

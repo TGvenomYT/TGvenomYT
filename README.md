@@ -1,4 +1,4 @@
-# Hi there, I'm Niranjan 👋
+# Hi there, I'm Niranjan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=F77E21&background=FFFFFF00&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast;Python+Developer;Automation+Specialist" alt="Typing SVG" /></a>

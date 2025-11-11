@@ -57,7 +57,7 @@ I'm a passionate student from India with a keen interest in Artificial Intellige
 
 <br/>
 
-![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
+![gifgithub](https://giphy.com/gifs/Smolverse-pixel-art-smol-smolverse-g2jj9VAIBluIreVNsb)
 
 <br/>
 

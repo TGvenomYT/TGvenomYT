@@ -1,14 +1,10 @@
 <p align="center">
-  <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=1
-  20&section=header&text=Niranjan's%20Awesome%20Profile&fontSize=40" />
-      </p>
-###Hi there, I'm Niranjan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="45px"> 
-      
+  <h1>Hi there, I'm Niranjan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> 🇮🇳</h1>
+</p>
+
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=F77E21&background=FFFFFF00&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast;Python+Developer;Automation+Specialist" alt="Typing SVG" /></a>
 </p>
-
 I'm a passionate student from India with a keen interest in Artificial Intelligence and Machine Learning. I enjoy building projects and exploring the latest advancements in the field.
 
 ---
@@ -49,7 +45,7 @@ I'm a passionate student from India with a keen interest in Artificial Intellige
 
 <p align="left">
 <a href="mailto:your-rajicbe1969@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://wa.me/your-9345988543"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://wa.me/your-+919345988543"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 <a href="https://discord.com/users/tgvenom0441"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 

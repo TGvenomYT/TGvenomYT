@@ -29,6 +29,8 @@ I'm a passionate student from India with a keen interest in Artificial Intellige
     <a href="https://www.n8n.io/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTVC1k-iS7Bx1ySL43nPK8EEjn-Ct3kHqj3Q&s" alt="n8n" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoXWqfy3krayX87L1CQxHR2N7Py70duulIFw&s" alt="chromadb" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;
     <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/0ae4bc3e-e71b-4dc4-adf9-cfc90bbeb26a" 
+     alt="docker" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;
 </p>
 
 *   **Languages & Databases:** Python, SQL, MySQL

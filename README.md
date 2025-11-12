@@ -1,4 +1,5 @@
 
+  
   <h1 align="center">Hi there, I'm Niranjan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> </h1>
 
 
@@ -7,6 +8,10 @@
 </p>
 I'm a passionate student from India with a keen interest in Artificial Intelligence and Machine Learning. I enjoy building projects and exploring the latest advancements in the field.
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 ---
 
 ### 🧠 Skills & Expertise
@@ -19,11 +24,6 @@ I'm a passionate student from India with a keen interest in Artificial Intellige
     <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoXWqfy3krayX87L1CQxHR2N7Py70duulIFw&s" alt="chromadb" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
     <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
 </p>
-<br/>
-
-![gifgithub](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
-<br/>
 
 *   **Languages & Databases:** Python, SQL, MySQL
 *   **Frameworks & Libraries:** PyTorch, Transformers
@@ -31,12 +31,16 @@ I'm a passionate student from India with a keen interest in Artificial Intellige
 *   **AI Concepts:** RAG (Retrieval-Augmented Generation)
 *   **Models:** Hugging Face, Ollama
 *   **Automation:** n8n
+<br/>
 
+![gifgithub](https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI5NDU5MzQsIm5iZiI6MTc2Mjk0NTYzNCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTEyVDExMDcxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM5NGI1Y2U3MDQ5Y2RjMTU0Zjc1NTgwNGQzNjA5MmIzNzBlZjZmZWQyZDRlNmNjZWEwZjUwYmVjY2RlOTFhZDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.eJDYEweqQp7GHSx7nseoImowYqrghfSwFKHwrbLJa4E)
+
+<br/>
 ---
 
 ### 🚀 My Projects
 
-<br align="center">
+<br/>
 
 ![gifgithub](https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif)
 
@@ -60,11 +64,13 @@ I'm a passionate student from India with a keen interest in Artificial Intellige
 <a href="https://discord.com/users/tgvenom0441"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 
+<br/>
+
+![gifgithub](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+<br/>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 
 

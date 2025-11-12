@@ -11,6 +11,7 @@ I'm a passionate student from India with a keen interest in Artificial Intellige
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
 </p>
 
 ---
@@ -36,11 +37,13 @@ I'm a passionate student from India with a keen interest in Artificial Intellige
 *   **AI Concepts:** RAG (Retrieval-Augmented Generation)
 *   **Models:** Hugging Face, Ollama
 *   **Automation:** n8n
-<div>
 
-![gifgithub](https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI5NDU5MzQsIm5iZiI6MTc2Mjk0NTYzNCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTEyVDExMDcxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM5NGI1Y2U3MDQ5Y2RjMTU0Zjc1NTgwNGQzNjA5MmIzNzBlZjZmZWQyZDRlNmNjZWEwZjUwYmVjY2RlOTFhZDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.eJDYEweqQp7GHSx7nseoImowYqrghfSwFKHwrbLJa4E),
 
-</div>
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI5NjE2ODUsIm5iZiI6MTc2Mjk2MTM4NSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTEyVDE1Mjk0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThkZjdmM2JiYjY4NWYxNGMwYzEyNjI0YzMzN2UwYzJiZDBiNmE1M2RiZjRiZmM4ZGQwODkzZWZmNjAxN2RhY2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.XgP6n1pqPfwk9bxdEzD4sxSDI-J_bcYO0B28kBI6wmg",width='70px',height='60px' />
+
+</p>
+
 
 ---
 
@@ -72,13 +75,13 @@ I'm a passionate student from India with a keen interest in Artificial Intellige
 </p>
 
 
-<a href="https://github.com/TGvenomYT" target="_blank">
-  <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
-</a>
-
 <br/>
 
 ![gifgithub](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <br/>
+
+<a href="https://github.com/TGvenomYT" target="_blank">
+  <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
+</a>
 

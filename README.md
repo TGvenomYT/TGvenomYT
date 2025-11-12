@@ -22,9 +22,9 @@ I'm a passionate student from India with a keen interest in Artificial Intellige
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="python" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Github" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img src="https://private-user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI5NTA0NDMsIm5iZiI6MTc2Mjk1MDE0MywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MzctZGUwMzgxNzItZTkwMy00OTUxLTkyNmMtNzU1ODc4ZGViMGI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTEyVDEyMjIyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMyNDQwNTI4MmEwOTJiODllMGRiNGRhYTlmYjNkN2VlM2IxODliOGIyMWUyMTRkMjdjY2E1MzZjMDY3NmVhNjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Aem7dRUM6y8RGN17crFpXi-dziTIV9xVjpDIVw9TG5E" alt="Pycharm" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/JetBrains_PyCharm_Product_Icon.svg/640px-JetBrains_PyCharm_Product_Icon.svg.png" alt="Pycharm" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="python" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;
-     <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"> <img src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI5NTA0NDMsIm5iZiI6MTc2Mjk1MDE0MywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTEyVDEyMjIyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQxOGIxN2YxN2UzOWY0MjNmNzBjZDcwYTEyNWIxNDZjYWMxNzI4NGQzMGYyZjI3N2YwMzUzNzk0YjM2OWZkOWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.YleoVjonN85w_sAae5EW6kbEXD5yc5OMYF4DRiIN-R4" alt="HTML" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;
+     <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.n8n.io/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTVC1k-iS7Bx1ySL43nPK8EEjn-Ct3kHqj3Q&s" alt="n8n" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoXWqfy3krayX87L1CQxHR2N7Py70duulIFw&s" alt="chromadb" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;
@@ -40,10 +40,9 @@ I'm a passionate student from India with a keen interest in Artificial Intellige
 
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI5NjE2ODUsIm5iZiI6MTc2Mjk2MTM4NSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTEyVDE1Mjk0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThkZjdmM2JiYjY4NWYxNGMwYzEyNjI0YzMzN2UwYzJiZDBiNmE1M2RiZjRiZmM4ZGQwODkzZWZmNjAxN2RhY2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.XgP6n1pqPfwk9bxdEzD4sxSDI-J_bcYO0B28kBI6wmg",width='70px',height='60px' />
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif",width="470px" height="470px" />
 
 </p>
-
 
 ---
 
@@ -60,8 +59,6 @@ I'm a passionate student from India with a keen interest in Artificial Intellige
 *   **Project 3:** [GMail Assistant](https://github.com/TGvenomYT/Mailing_Agent) - A powerful mailing assistant to assist on your emails.
 *   **Project 4:** [Wikipedia Search Assistant](https://github.com/TGvenomYT/Wikipedia-Search-Assistant) - Empower Wikipedia searches.
    
-
-
 
 ---
 

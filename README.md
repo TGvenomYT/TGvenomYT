@@ -1,8 +1,4 @@
-<br/>
 
-![gifgithub](https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif)
-
-<br/>
   <h1 align="center">Hi there, I'm Niranjan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> </h1>
 
 
@@ -39,6 +35,12 @@ I'm a passionate student from India with a keen interest in Artificial Intellige
 ---
 
 ### 🚀 My Projects
+
+<br align="center">
+
+![gifgithub](https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif)
+
+<br/>
 
 *   **Project 1:** [Password Manager](https://github.com/TGvenomYT/password-manager) -A simple password manager with complex safety logic 
 *   **Project 2:** [Chatbot](https://github.com/TGvenomYT/Gemini-chatbot) - A speech assistant using GTTS and speech_recognition.

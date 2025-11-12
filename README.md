@@ -1,6 +1,6 @@
 <br align="center"/>
 
-![gifgithub](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+![gifgithub](https://camo.githubusercontent.com/f8672e0c6ebb1a0a67c4fecd418a116f01010bbdfaea4ebca6d193d69325e2fe/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f666978706172726f742e676966)
 
 <br/>
   <h1 align="center">Hi there, I'm Niranjan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> </h1>

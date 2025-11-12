@@ -1,4 +1,8 @@
+<br/>
 
+![gifgithub](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+
+<br/>
   <h1 align="center">Hi there, I'm Niranjan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> </h1>
 
 
@@ -19,6 +23,11 @@ I'm a passionate student from India with a keen interest in Artificial Intellige
     <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoXWqfy3krayX87L1CQxHR2N7Py70duulIFw&s" alt="chromadb" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
     <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
 </p>
+<br/>
+
+![gifgithub](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+<br/>
 
 *   **Languages & Databases:** Python, SQL, MySQL
 *   **Frameworks & Libraries:** PyTorch, Transformers
@@ -55,11 +64,7 @@ I'm a passionate student from India with a keen interest in Artificial Intellige
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<br/>
 
-![gifgithub](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
-<br/>
 
 <a href="https://github.com/TGvenomYT" target="_blank">
   <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">

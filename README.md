@@ -69,7 +69,9 @@ I'm a passionate student from India with a keen interest in Artificial Intellige
 
 <p align="left">
 <a href="mailto:your-rajicbe1969@gmail.com"><img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png"width="60" height="60" alt="Gmail"/></a>
-<a href="https://wa.me/your-9345988543"><img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif"width="60" height="60"/></a>
+<a href="https://wa.me/919345887543">
+  <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="60" height="60"/>
+</a>
 <a href="https://discord.com/users/tgvenom0441"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif"width="60" height="60" alt="Discord"/></a>
 </p>
 

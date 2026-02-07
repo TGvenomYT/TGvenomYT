@@ -57,10 +57,10 @@ I'm a passionate student from India with a keen interest in Artificial Intellige
 
 <br/>
 
-*   **Project 1:** [Password Manager](https://github.com/TGvenomYT/password-manager) -A simple password manager with complex safety logic 
-*   **Project 2:** [Chatbot](https://github.com/TGvenomYT/Gemini-chatbot) - A speech assistant using GTTS and speech_recognition.
-*   **Project 3:** [GMail Assistant](https://github.com/TGvenomYT/Mailing_Agent) - A powerful mailing assistant to assist on your emails.
-*   **Project 4:** [Wikipedia Search Assistant](https://github.com/TGvenomYT/Wikipedia-Search-Assistant) - Empower Wikipedia searches.
+*    [Password Manager](https://github.com/TGvenomYT/password-manager) -A simple password manager with complex safety logic 
+*    [Chatbot](https://github.com/TGvenomYT/Gemini-chatbot) - A speech assistant using GTTS and speech_recognition.
+*   [GMail Assistant](https://github.com/TGvenomYT/Mailing_Agent) - A powerful mailing assistant to assist on your emails.
+*    [Wikipedia Search Assistant](https://github.com/TGvenomYT/Wikipedia-Search-Assistant) - Empower Wikipedia searches.
    
 
 ---

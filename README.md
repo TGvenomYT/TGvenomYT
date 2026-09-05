@@ -37,7 +37,7 @@ I am a Developer and AI Enthusiast based in India, building **offline-first syst
     </td>
     <td align="center" width="96">
         <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="HuggingFace" />
-      <br />Transformers
+      <br />HF Transformers
     </td>
     <td align="center" width="96">
         <img src="https://ollama.com/public/ollama.png" width="40" height="40" alt="Ollama" />
